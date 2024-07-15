@@ -1,1 +1,11 @@
-# TASK2
+NAME:GANGANIGOWNIMOUNIKA
+COMPANY:CODETECH IT SOLUTIONS
+ID:CT12DS672
+DOMAIN:VLSI
+DURATION:10th JUNE 2024 to 10th AUG 2024
+MENTOR:G.SRAVANI
+OVERVIEW OF THE PROJECT:VERILOG code for design FSM
+OBJECTIVE:The objective of the projectbis to design FSM using verilog and testbench to test various states and transitions of FSM
+KEY ACTIVITIES:Design FSM
+TECHNOLOGIES USED:ModelSim,VCS
+ 
